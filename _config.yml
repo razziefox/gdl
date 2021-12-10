@@ -1,5 +1,16 @@
+title: GDL - Game Development List
+author: Florencio and Contributors
+
 remote_theme: abhinavs/moonwalk
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+theme_config:
+ appearance: "auto"
+ appearance_toggle: true
+ back_home_text: "home"
+ show_navbar: true
+ show_footer: true
+ show_copyright: true
