@@ -1,5 +1,7 @@
 navbar_entries:
+
   - title: about
-    url: about/index.md
+    url: about/index
+
   - title: game engines and frameworks
-    url: engines-frameworks/index.md
+    url: engines-frameworks/index
