@@ -1,7 +1,0 @@
-navbar_entries:
-
-  - title: about
-    url: about/index
-
-  - title: game engines and frameworks
-    url: engines-frameworks/index
