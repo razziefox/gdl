@@ -1,7 +1,7 @@
 title: GDL - Game Development List
 author: Florencio and Contributors
 url: https://florencio-o.github.io/gdl/
-favicon: "./assets/favicon.ico"
+favicon: "https://raw.githubusercontent.com/florencio-o/gdl/main/assets/favicon.ico"
 
 remote_theme: abhinavs/moonwalk
 
