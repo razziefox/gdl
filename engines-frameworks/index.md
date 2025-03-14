@@ -31,3 +31,7 @@
 * [Monogame](https://monogame.net)
 * [FlatRedBall](https://flatredball.com)
 * [Moonworks](https://github.com/MoonsideGames/MoonWorks)
+* [Bitsy](https://bitsy.org)
+* [Renpy](https://www.renpy.org)
+* [libGDX](https://libgdx.com)
+* [Defold](https://defold.com)
