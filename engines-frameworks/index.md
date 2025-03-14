@@ -12,7 +12,7 @@
 * [Love2D](https://love2d.org/)
 * [Raylib](https://raysan5.itch.io/raylib/)
 * [GBStudio](https://chrismaltby.itch.io/gb-studio/)
-* [Pixel Vision 8](https://pixelvision8.itch.io/pv8/)
+~~* [Pixel Vision 8](https://pixelvision8.itch.io/pv8/)~~ (No longer maintained)
 * [Dome](https://avivbeeri.itch.io/dome/)
 * [Open 3D Engine](https://o3de.org/)
 ~~* [Amethyst Engine](https://amethyst.rs/)~~ (No longer maintained)
